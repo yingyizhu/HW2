@@ -1,6 +1,6 @@
 body {
   font-family:Calibri Light;
-  background-color:#D6EBFF;
+  background-color:white;
   font-size: 20px;
 }
 
@@ -40,12 +40,23 @@ hgroup {
 }
 
 .first{
- float:left;
+ float:center;
+ margin-left:33px;
  }
  
-#1{
-  text-align: center;
+ .second{
+ float:center;
+ margin-left:33px;
  }
+ 
+.photo1{
+  text-align: center;
+  border: 5px solid red;
+ }
+ 
+#2{
+  text-align: center;
+ }????
 
 p {
   margin:20px;
@@ -62,16 +73,12 @@ box-shadow:3px 3px 5px 1px #cccccc;
 border:10px solid #696;
 }
 
-.title{ 
-	color:yellow;
-}
 
 footer {
-  width:60%;
+  width:95%;
   color:blue;
   margin-right:auto;
-  margin-left:30px;
+  margin-left:15px;
   height:50px;
-  margin-bottom:50px;
-  float:left;
+  margin-bottom:50px; 
 }
