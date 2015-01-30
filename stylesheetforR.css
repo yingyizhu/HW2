@@ -1,7 +1,9 @@
+
 h2 {
   font-family:Times New Roman;
   font-style:italic;
   font-weight:bold;
+  font-size:1.6em;
 }
 
 h3{
@@ -25,7 +27,7 @@ body {
  background-color:#B2D1E0;
  }
  
-#resume {margin:0 auto; width:80%; text-align:left;
+#resume {margin:0 auto; width:60%; text-align:left;
  }
  
 #content{width:100%;}
