@@ -13,7 +13,6 @@ header {
   padding:10px;
   border:10px solid #696;
   border-radius:20px;
-  text-align: center;
   overflow:hidden;
 }
 
@@ -26,23 +25,20 @@ h1 {
 }
 
 h2 {
-  font-size:1.6;
+  font-size:1.6em;
   margin-left: 20px;
 }
 
 h3{
-  font-size:1.2;
+  font-size:1.2em;
   }
 
 .first{
- float:center;
- margin-left:33px;
-
+ margin-left:10%;
  }
  
  .second{
- float:center;
- margin-left:33px;
+ margin-left:10%;
  }
  
 .photo1{
